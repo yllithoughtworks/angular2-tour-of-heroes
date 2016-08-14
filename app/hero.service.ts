@@ -7,9 +7,13 @@ export class HeroService {
     return Promise.resolve(HEROES);
   }
   getHeroesSlowly() {
-		return new Promise<Hero[]>(resolve =>
-			setTimeout(() => resolve(HEROES), 2000) // 2 seconds
-		);
+    return new Promise<Hero[]>(resolve =>
+      setTimeout(() => resolve(HEROES), 2000) // 2 seconds
+    );
+  }
+  getHero(id: number) {
+    return this.getHeroes()
+      .then(heroes => heroes.find(hero => hero.id === id));
   }
 }
 
