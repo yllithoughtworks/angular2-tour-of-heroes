@@ -1,7 +1,0 @@
-{
-    "folders": [{
-        "path": ".",
-        "folder_exclude_patterns": [".svn", "._d", ".metadata", ".settings"],
-        "file_exclude_patterns": ["app/*.js", "app/*.js.map"]
-    }]
-}

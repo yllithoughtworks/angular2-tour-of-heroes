@@ -120,10 +120,10 @@
 	"buffers":
 	[
 		{
-			"file": "angular2.sublime-project",
+			"file": "angular2-tour-of-heros.sublime-project",
 			"settings":
 			{
-				"buffer_size": 87,
+				"buffer_size": 189,
 				"line_ending": "Unix"
 			}
 		}
@@ -136,9 +136,17 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "Package",
+		"last_filter": "for",
 		"selected_items":
 		[
+			[
+				"for",
+				"TypeScript: Format Document"
+			],
+			[
+				"format",
+				"TypeScript: Format Document"
+			],
 			[
 				"Package",
 				"Package Control: Install Package"
@@ -236,7 +244,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 392.0
+		"width": 485.0
 	},
 	"console":
 	{
@@ -262,12 +270,26 @@
 	"expanded_folders":
 	[
 		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes",
-		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/app"
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/app",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/node_modules"
 	],
 	"file_history":
 	[
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/angular2-tour-of-heros.sublime-project",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/.sublime-project",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/app/app.module.ts",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/app/hero.service.ts",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/app/hero.ts",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/app/hero-detail.component.ts",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/app/mock-heroes.ts",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/app/app.component.ts",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/index.html",
 		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/tsconfig.json",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/app/app.routing.ts",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/app/heroes.component.ts",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/app/heros.component.js",
 		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/systemjs.config.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/angular2.sublime-project",
 		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/styles.css",
 		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/app/app.component.js.map",
 		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/app/app.component.js",
@@ -380,20 +402,7 @@
 		"/Users/yongliuli/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/.editorconfig",
 		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Pipelines/index.spec.js",
-		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Pipelines/index.js",
-		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Monitor/index.spec.js",
-		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/PipelineGroupAdd/index.spec.js",
-		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/PipelineGroupAdd/index.js",
-		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Teams/index.spec.js",
-		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Team/index.spec.js",
-		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Team/index.js",
-		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/PipelinesAdd/index.spec.js",
-		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Pipeline/index.spec.js",
-		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Pipeline/Artifacts/index.spec.js",
-		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Pipeline/BuildHistories/index.spec.js",
-		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Pipeline/Home/index.spec.js",
-		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Pipeline/Stat/index.spec.js",
-		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Pipeline/TestReports/index.spec.js"
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Pipelines/index.js"
 	],
 	"find":
 	{
@@ -592,19 +601,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "angular2.sublime-project",
+					"file": "angular2-tour-of-heros.sublime-project",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 87,
+						"buffer_size": 189,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								81,
-								81
+								180,
+								180
 							]
 						],
 						"settings":
