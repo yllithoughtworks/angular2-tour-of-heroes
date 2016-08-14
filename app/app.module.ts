@@ -8,14 +8,16 @@ import { HeroService }  from './hero.service';
 
 
 @NgModule({
-  imports:      [ BrowserModule ,
-  				 FormsModule],
-  declarations: [ 
-  	AppComponent,
-  	HeroDetailComponent,
-  	HeroesComponent
-  ],
-
-  bootstrap:    [ AppComponent ]
+	imports: [
+		BrowserModule,
+		FormsModule
+	],
+	declarations: [
+		AppComponent,
+		HeroDetailComponent,
+		HeroesComponent
+	],
+	providers: [HeroService],
+	bootstrap: [AppComponent]
 })
 export class AppModule { }
