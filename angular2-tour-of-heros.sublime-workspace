@@ -1,0 +1,810 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"subs",
+				"subscribe"
+			],
+			[
+				"comp",
+				"componentWillUnmount"
+			],
+			[
+				"la",
+				"lastLine2"
+			],
+			[
+				"line",
+				"line1"
+			],
+			[
+				"trim",
+				"trimed"
+			],
+			[
+				"set",
+				"_setDuties"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"sty",
+				"styles"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ne",
+				"nexus-server"
+			],
+			[
+				"mx",
+				"max-height"
+			],
+			[
+				"job",
+				"jobSelected"
+			],
+			[
+				"mo",
+				"modification"
+			],
+			[
+				"tim",
+				"timePassed"
+			],
+			[
+				"build",
+				"buildSelect"
+			],
+			[
+				"bui",
+				"buildSelect"
+			],
+			[
+				"cvs",
+				"cvsMaterialRivisions"
+			],
+			[
+				"met",
+				"meterial_revisions"
+			],
+			[
+				"se",
+				"selectetHistory"
+			],
+			[
+				"log",
+				"logOpened"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"pie",
+				"PipelineHistoryItem"
+			],
+			[
+				"Pipel",
+				"PipelineHistoryItem"
+			],
+			[
+				"chi",
+				"children"
+			],
+			[
+				"Team",
+				"TeamRoute"
+			],
+			[
+				"public",
+				"publicPath"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"Tab",
+				"TabNav"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "angular2.sublime-project",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package",
+		"selected_items":
+		[
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"PackageI",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"PackageIn",
+				"Package Control: Install Package"
+			],
+			[
+				"l",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"Lint",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"Togl",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"PackageIN",
+				"Package Control: Install Package"
+			],
+			[
+				"Babel",
+				"Preferences: Babel – User"
+			],
+			[
+				"Package Conrol  Remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package IN",
+				"Package Control: Install Package"
+			],
+			[
+				"lint All",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"Lint Thi",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"LintThis",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lintthi",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"Linter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"linter",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"PackageInstall",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Con",
+				"Package Control: List Packages"
+			],
+			[
+				"packageCo",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ls",
+			"l's",
+			"lint",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/app"
+	],
+	"file_history":
+	[
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/tsconfig.json",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/systemjs.config.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/styles.css",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/app/app.component.js.map",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/app/app.component.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-tour-of-heroes/system.config.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-quickstart/app/app.components.ts",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-quickstart/app/main.ts",
+		"/Users/yongliuli/Documents/workspace/deliflow/spike/angular2-quickstart/app/app.module.ts",
+		"/Users/yongliuli/Downloads/apache-tomcat-6.0.45/conf/server.xml",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-rancher-catalog/.git/COMMIT_EDITMSG",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Pipelines/layout/PipelinesView/index.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/modules/teamLastCIStatus.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Pipelines/layout/PipelinesView/Pipelines.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Pipeline/layout/PipelineView/PipelineView.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Pipeline/layout/PipelineView/index.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Pipelines/layout/PipelinesView/PipelinesView.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/layout/CoreLayout/index.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/layout/CoreLayout/CoreLayout.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Monitor/layout/MonitorView/MonitorView.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/modules/pipelineLatestStatus.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/package.json",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Pipeline/children/BuildHistories/layout/components/PipelineStackedBuildTime/PipelineStackedBuildTime.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Pipeline/children/BuildHistories/layout/components/PipelineBuildHistoryTableCard/PipelineBuildHistoryTableCard.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/config/environments.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/nodemon.json",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/utils/api.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-rancher-catalog/templates/deliflow-ui-and-services/1/docker-compose.yml",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-rancher-catalog/templates/deliflow-quick-start/config.yml",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-rancher-catalog/templates/leansw-go-agents/0/rancher-compose.yml",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-rancher-catalog/templates/deliflow-quick-start/1/rancher-compose.yml",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-rancher-catalog/templates/deliflow-quick-start/1/docker-compose.yml",
+		"/Users/yongliuli/Documents/workspace/ruff_playground/hello_robot_2/ruff_modules/driver_car_base002/src/index.js",
+		"/Users/yongliuli/Documents/workspace/ruff_playground/CarRemote2/node_modules/react/lib/ReactNativeMount.js",
+		"/Users/yongliuli/Documents/workspace/ruff_playground/CarRemote2/node_modules/react/lib/ReactDefaultBatchingStrategy.js",
+		"/Users/yongliuli/Documents/workspace/ruff_playground/CarRemote/node_modules/react/lib/ReactReconciler.js",
+		"/Users/yongliuli/Documents/workspace/ruff_playground/CarRemote/package.json",
+		"/Users/yongliuli/Documents/workspace/ruff_playground/CarRemote/node_modules/react-native/packager/react-packager/src/Resolver/polyfills/require.js",
+		"/Users/yongliuli/Documents/workspace/ruff_playground/CarRemote/index.ios.js",
+		"/Users/yongliuli/Documents/workspace/ruff_playground/CarRemote/components/MyButton.js",
+		"/Users/yongliuli/Documents/workspace/ruff_playground/CarRemote/index.android.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/index.html",
+		"/Users/yongliuli/Documents/workspace/ruff_playground/http_base/src/index.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-codemetrics/.git/COMMIT_EDITMSG",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-pipeline-docker-image/Dockerfile.release",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-pipeline-docker-image/bin/release_rebuild.sh",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-pipeline-docker-image/Dockerfile.rc",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-pipeline-docker-image/README.md",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-pipeline-docker-image/rc_rebuild.sh",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-pipeline-docker-image/dev_rebuild.sh",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-pipeline-docker-image/Dockerfile.dev",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/components/Nav/Tabs/index.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/components/Nav/Tabs/Tabs.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/dist/12.team_pipeline_admin.680343332c4c82a5e1c9.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-rancher-catalog/templates/deliflow-ui-and-services/0/docker-compose.yml",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-rancher-catalog/templates/deliflow-ui-and-services/0/rancher-compose.yml",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-rancher-catalog/templates/leansw-go-agents/0/docker-compose.yml",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-rancher-catalog/templates/deliflow-ui-and-services/0/tmp.command",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-rancher-catalog/templates/leansw-go-agents/config.yml",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-rancher-catalog/templates/deliflow-ui-and-services/config.yml",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-rancher-catalog/templates/deliflow-ui-and-services/catalogIcon-deliflow-ui-and-services.png",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-gocd-agent-docker/node4_4_phantomjs_2_1_1/Dockerfile",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-gocd-agent-docker/node5_11_phantomjs_2_1_1/Dockerfile",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-gocd-agent-docker/README.md",
+		"/Users/yongliuli/Downloads/compose (2)/docker-compose.yml",
+		"/Users/yongliuli/Downloads/compose (2)/rancher-compose.yml",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/main.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Team/layout/TeamView/TeamView.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/styles/_fonts.scss",
+		"/Users/yongliuli/index.html",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics/.git/COMMIT_EDITMSG",
+		"/Users/yongliuli/Downloads/485_test/uart/uart.h",
+		"/Users/yongliuli/Downloads/485_test/main.c",
+		"/Users/yongliuli/Downloads/485_test/other/other.c",
+		"/Users/yongliuli/Downloads/485_test/uart.lst",
+		"/Users/yongliuli/Downloads/485_test/uart/uart.c",
+		"/Users/yongliuli/Documents/workspace/ReactNativeWorkShop/node_modules/react/package.json",
+		"/Users/yongliuli/Documents/workspace/ReactNativeWorkShop/js/pages/Detail.js",
+		"/Users/yongliuli/Documents/workspace/ReactNativeWorkShop/js/pages/Home.js",
+		"/Users/yongliuli/Documents/workspace/ReactNativeWorkShop/js/App.js",
+		"/Users/yongliuli/Documents/workspace/ReactNativeWorkShop/.babelrc",
+		"/Users/yongliuli/Documents/workspace/ReactNativeWorkShop/js/components/NavBar.js",
+		"/Users/yongliuli/Documents/workspace/ReactNativeWorkShop/package.json",
+		"/Users/yongliuli/Documents/workspace/ReactNativeWorkShop/test/Navbar-spec.js",
+		"/Users/yongliuli/Documents/workspace/ReactNativeWorkShop/node_modules/react-native/packager/react-packager/src/Resolver/polyfills/require.js",
+		"/Users/yongliuli/Documents/workspace/spring-cloud-microservice-example/pom.xml",
+		"/Users/yongliuli/Documents/workspace/spring-cloud-microservice-example/discovery-microservice/pom.xml",
+		"/Users/yongliuli/Documents/workspace/spring-cloud-microservice-example/.gitignore",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Pipeline/children/Home/components/PipelineStageItem/style.scss",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Pipeline/children/Home/components/PipelineHistoryItem/PipelineHistoryItem.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Pipeline/children/Home/index.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Pipeline/children/Home/layout/PipelineHomeView/style.scss",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/modules/pipelineStageLog.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Pipeline/children/Home/layout/PipelineHomeView/index.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/.git/MERGE_MSG",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Pipeline/Home/components/PipelineStageItem/PipelineStageItem.spec.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Pipeline/Home/components/PipelineHistoryItem/PipelineHistoryItem.spec.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Pipeline/children/Home/components/PipelineStageItem/PipelineStageItem.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Pipeline/children/Home/layout/PipelineHomeView/PipelineHomeView.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/.eslintignore",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Pipeline/children/Home/components/PipelineStageItem/index.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/utils/index.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Pipeline/children/BuildHistories/layout/PipelineBuildHistoriesView/PipelineBuildHistoriesView.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/styles/_layouts.scss",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/config/index.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/node_modules/node-sass/src/libsass.gyp",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Pipeline/children/Home/components/PipelineHistoryItem/index.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Pipeline/Dash_Board/index.spec.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/index.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Pipeline/DashBoard/index.spec.js",
+		"/Users/yongliuli/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/yongliuli/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/.editorconfig",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Pipelines/index.spec.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Pipelines/index.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Monitor/index.spec.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/PipelineGroupAdd/index.spec.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/PipelineGroupAdd/index.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Teams/index.spec.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Team/index.spec.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes/children/Team/index.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/PipelinesAdd/index.spec.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Pipeline/index.spec.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Pipeline/Artifacts/index.spec.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Pipeline/BuildHistories/index.spec.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Pipeline/Home/index.spec.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Pipeline/Stat/index.spec.js",
+		"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Pipeline/TestReports/index.spec.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/yongliuli/Downloads/apache-tomcat-6.0.45/conf",
+			"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/",
+			"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src",
+			"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe",
+			"/Users/yongliuli/Documents/workspace/deliflow/ref/rancher-java-sdk",
+			"/Users/yongliuli/Documents/workspace/deliflow/leansw-rancher-catalog/templates",
+			"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/build",
+			"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/config",
+			"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src",
+			"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe",
+			"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src",
+			"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src/routes",
+			"",
+			"/Users/yongliuli/Downloads/485_test",
+			"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src",
+			"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests",
+			"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/src",
+			"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/",
+			"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/",
+			"/Users/yongliuli/Documents/workspace/deliflow/leansw-cdmetrics-ui/node_fe/tests/routes/Pipeline/Home/components/PipelineHistoryItem/PipelineStageItem.",
+			"src/*.scss",
+			"src/",
+			"/src/",
+			"src/",
+			"/src/",
+			"src/",
+			"src",
+			"",
+			"tests",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"nav",
+			"Manager",
+			"user",
+			"/hello",
+			"interval",
+			"intervall",
+			"inteval",
+			"resetParentInterval",
+			"_resetInterval",
+			"setInte",
+			"setInteval",
+			"stageStatus.pipelineModifications",
+			"construct",
+			"mvn",
+			".')\n",
+			"inject",
+			"enableDevTool",
+			"socke",
+			"quartz",
+			"--eureka.instance.hostname=\"$$EUREKA_INSTANCE_HOSTNAME\"",
+			"export EUREKA_INSTANCE_HOSTNAME=$$(curl http://rancher-metadata/latest/self/container/primary_ip)&& echo $$EUREKA_INSTANCE_HOSTNAME  &&",
+			"export EUREKA_INSTANCE_HOSTNAME=$$(curl http://rancher-metadata/latest/self/container/primary_ip) && echo $$EUREKA_INSTANCE_HOSTNAME &&",
+			"rancher-server",
+			":latest",
+			"\\",
+			"msgProcessor",
+			"scale",
+			"max",
+			"\n    --quartz.enabled=${code_metrics_quartz_enable}",
+			"io.rancher.scheduler.affinity:host_label_soft: host_env=${host_env_label}",
+			"leansw-rancher-catalog git:(master) docker rm",
+			"$('#car_base')",
+			"$(\"#car_base\")",
+			"$(\"#LCD1602-02\").clear();\n				$(\"#LCD1602-02\").print(",
+			"Level.high",
+			"Level.low",
+			"_setLevels",
+			"hight",
+			"loading",
+			"eureka-server",
+			"environments",
+			"services",
+			"go-server",
+			"goserver_ip",
+			"goserver_id",
+			"quartz.enabled",
+			"quarz",
+			"quartz.enabled=false",
+			"go-server",
+			"gocd-agent",
+			"require",
+			"font-aw",
+			"font",
+			"route.path",
+			"test_data",
+			"teat_data",
+			"test_data",
+			"relative",
+			"pipeLineStageLog",
+			"console.log",
+			"pipeline-flow-content-log",
+			"RECEIVE_PIPELINE_LOG",
+			"PIPELINE_LOG",
+			"fetchPipelineStageLog",
+			"toggleLogOpened",
+			"PIPELINE_LOG",
+			"LOG",
+			"/home",
+			"mock",
+			"moci",
+			"pipeline-flow-img",
+			"successed",
+			"constructor",
+			"修改单位",
+			"unknown",
+			"console.log",
+			"debug(",
+			"_debug",
+			"PropTypes.str",
+			"'debug'",
+			"debug(",
+			"_debug",
+			"page-sidebar",
+			"sidebar",
+			"page-sidebar\npage-sidebar",
+			"\npage-sidebar",
+			"page-sidebar",
+			"console.log",
+			"compiler_devtool",
+			"DevTool",
+			"service-status--toggle",
+			"_PROD_",
+			"_PRODUCTION_",
+			"_PRODUCTION",
+			"argv",
+			"no_debug",
+			"args",
+			"_hmr",
+			"'debug'",
+			"__DEV__",
+			"_hmr",
+			"hmr",
+			"production",
+			"shourldShowSideBar",
+			">>>>",
+			"/Tabs",
+			"Tabs",
+			"reducer",
+			"webpack_hmr",
+			"favicon.ico",
+			"eslint",
+			"babel",
+			"bebel-",
+			"react",
+			" ",
+			"package"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			":${docker_image_tag}",
+			"",
+			"car",
+			"lcdShow(",
+			"1",
+			"0",
+			"_setDuties",
+			"high",
+			"hight",
+			"toggleLog",
+			"shouldShowSideBar",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "angular2.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "angular2-tour-of-heros.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pipelinesview",
+				"src/routes/children/Pipelines/layout/PipelinesView/PipelinesView.js"
+			],
+			[
+				"teamla",
+				"src/modules/teamLastCIStatus.js"
+			],
+			[
+				"pipelinela",
+				"src/modules/pipelineLatestStatus.js"
+			],
+			[
+				"lastci",
+				"src/modules/teamLastCIStatus.js"
+			],
+			[
+				"laststatus",
+				"src/modules/teamLastCIStatus.js"
+			],
+			[
+				"overallconfig/",
+				"src/routes/children/OverallConfig/index.js"
+			],
+			[
+				"envconf",
+				"src/routes/children/OverallConfig/children/EnvConfig/index.js"
+			],
+			[
+				"corelay",
+				"src/routes/layout/CoreLayout/CoreLayout.js"
+			],
+			[
+				"pipelinehisto",
+				"tests/routes/Pipeline/Home/components/PipelineHistoryItem/PipelineHistoryItem.spec.js"
+			],
+			[
+				"pipelinehi",
+				"src/routes/children/Pipeline/children/Home/components/PipelineHistoryItem/PipelineHistoryItem.js"
+			],
+			[
+				"pipelinestae",
+				"tests/routes/Pipeline/Home/components/PipelineStageItem/PipelineStageItem.spec.js"
+			],
+			[
+				"pipelinehome",
+				"src/routes/children/Pipeline/children/Home/layout/PipelineHomeView/PipelineHomeView.js"
+			],
+			[
+				"stagetitem",
+				"src/routes/children/Pipeline/children/Home/components/PipelineStageItem/PipelineStageItem.js"
+			],
+			[
+				"pipelinehistoryitem",
+				"src/routes/children/Pipeline/children/Home/components/PipelineHistoryItem/PipelineHistoryItem.js"
+			],
+			[
+				"adminview",
+				"tests/routes/Admin/layout/AdminView.spec.js"
+			],
+			[
+				"pipelinegroupadd/",
+				"src/routes/children/Admin/children/PipelineGroupAdd/index.js"
+			],
+			[
+				"counterview",
+				"src/routes/children/Example/layout/CounterView/CounterView.js"
+			],
+			[
+				"teamprofile",
+				"tests/routes/Admin/components/TeamProfileForm.spec.js"
+			],
+			[
+				"header.js",
+				"src/components/Header/Header.js"
+			],
+			[
+				"react",
+				"node_modules/react/react.js"
+			],
+			[
+				"sidebar",
+				"src/components/Sidebar/Sidebar.js"
+			],
+			[
+				"counter",
+				"src/modules/counter.js"
+			],
+			[
+				"countervi",
+				"src/routes/children/Example/layout/CounterView/CounterView.js"
+			],
+			[
+				"counterv",
+				"src/routes/children/Example/layout/CounterView/CounterView.js"
+			],
+			[
+				"corela",
+				"src/routes/layout/CoreLayout/CoreLayout.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 954.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 439.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
